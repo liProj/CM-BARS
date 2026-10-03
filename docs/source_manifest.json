@@ -1,0 +1,21 @@
+{
+  "code\\cmbars.py": "438528a1b48b21e28bc04e52995d60ab561cd45ea508bc4f24fdeaed8a413cad",
+  "code\\cmbars2.py": "f9a234acfb655eae9becd097e45b0ac9b1d148c4b328cf1706fb88b211c28c90",
+  "code\\methods.py": "aabfffe77680f263bbfec16a9c6a52e9daae65edd3396181ec0128e0d86660a9",
+  "code\\metrics.py": "d3292a87288ecf9eb8cc747bb42fbbc5bab16ac2a204341740f15ce2f4662196",
+  "code\\experiments.py": "e4f3f783fa6c0f76d99286c468d2f054ea7e864ffff55278eaac27746b320ead",
+  "code\\pfn.py": "e3a5aeb796de224a3a47d079d5c6f1a4058d396b1cf4f77105953184b01abb5c",
+  "code\\prior.py": "536e62aa2cb5e8b2c909fb2a80fd4e1a79e12c0331c9f056520c1060b12e74ce",
+  "code\\stack.py": "673be3c3aa3d26f64d2727f212356be9de80269ae18e549c75f9e065283b6cfb",
+  "code\\stack_oof.py": "32632a76f3a61c5ca74c416d9e287b01bb480a258f1697f2cd98e0fb80995e3c",
+  "code\\final_fit.py": "c82b9efe282ef2ca020a1356e55aec5812a3bf269d8746e47dfacb770a85e3b3",
+  "code\\baseline.py": "26cac451b1e9a7909a5645a1f5291d3857c0fcacea59848fb1f3b0f025f831e5",
+  "code\\data_check.py": "75b697339aa595482e0fdcba01dd88bbf53299a1b4466cba5973e0903d751906",
+  "code\\analysis.py": "c1e047bef1c4b400c813f9b65a855fa8f8ceb2987d06407ebc239751f29807b4",
+  "code\\stats_tests.py": "ff4d6c1bc14a49b0b95b25e10e52756be9b41e9870bef7e0e6501f267ed94950",
+  "code\\simulate.py": "7e47021fb347379b7d944a1eea00e573fb4a73a71b5b944a5e038b0867c1f0d6",
+  "code\\plotstyle.py": "1a0ecab4fa0f063197af37df91422964cf659f03dd7e1e71d5ca4e59898aec02",
+  "code\\fig_data.py": "66cbdf3bdf88fac8f8c4ad402ca045368de46a54d1a664aa1e30c915a2ab3573",
+  "code\\fig_results.py": "ce92f704a41af5ef697ff620f76b41db1ffa1297839f602f95d8088ffdad47f4",
+  "code\\fig_sim.py": "9f14be5d83ab9b2f84dc2eaa782ddd3927a78204303a90355ab670c63e19c1f8"
+}

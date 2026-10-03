@@ -1,0 +1,31 @@
+response,member,weight
+acetosyringone,CM-BARS,0.0776235508965513
+acetosyringone,ElasticNet-Quad,0.09467849597017879
+acetosyringone,ExtraTrees,0.2918529855514035
+acetosyringone,GP-Matern,0.002403788228852046
+acetosyringone,LightGBM,0.26849563925615505
+acetosyringone,OLS-Quad + clip,3.1403622541530076e-16
+acetosyringone,PFN-RSM (prior-fitted),0.01151798448674539
+acetosyringone,PLS-Quad,0.0012064890747804607
+acetosyringone,RandomForest,0.12820664526023093
+acetosyringone,XGBoost,0.12401442127510232
+p_coumaric_acid,CM-BARS,0.055495960203588
+p_coumaric_acid,ElasticNet-Quad,0.08721562786177153
+p_coumaric_acid,ExtraTrees,0.14744225455486268
+p_coumaric_acid,GP-Matern,0.13424237323680258
+p_coumaric_acid,LightGBM,0.10370366056921482
+p_coumaric_acid,OLS-Quad + clip,0.07610448634186064
+p_coumaric_acid,PFN-RSM (prior-fitted),0.07607888668852857
+p_coumaric_acid,PLS-Quad,0.12686769912719217
+p_coumaric_acid,RandomForest,0.08438945189377396
+p_coumaric_acid,XGBoost,0.10845959952240511
+tannic_acid,CM-BARS,0.0731724983667928
+tannic_acid,ElasticNet-Quad,0.05233503236884883
+tannic_acid,ExtraTrees,0.06358594417276145
+tannic_acid,GP-Matern,0.13499283791384653
+tannic_acid,LightGBM,0.10126646904267445
+tannic_acid,OLS-Quad + clip,0.08173927060286594
+tannic_acid,PFN-RSM (prior-fitted),0.07875583646695333
+tannic_acid,PLS-Quad,0.18095920410120678
+tannic_acid,RandomForest,0.12203956152489526
+tannic_acid,XGBoost,0.11115334543915473

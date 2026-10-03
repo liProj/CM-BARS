@@ -1,0 +1,391 @@
+fold,response,member,weight
+0,tannic_acid,OLS-Quad + clip,0.08134193263674595
+0,tannic_acid,PLS-Quad,0.19327301179021733
+0,tannic_acid,ElasticNet-Quad,0.054210208846091935
+0,tannic_acid,RandomForest,0.12349883592068271
+0,tannic_acid,ExtraTrees,0.06637605780093658
+0,tannic_acid,LightGBM,0.10685177913492752
+0,tannic_acid,XGBoost,0.11091242229823021
+0,tannic_acid,GP-Matern,0.130251044894369
+0,tannic_acid,CM-BARS,0.06277764544779442
+0,tannic_acid,PFN-RSM (prior-fitted),0.07050706123000433
+0,p_coumaric_acid,OLS-Quad + clip,0.06290799386822023
+0,p_coumaric_acid,PLS-Quad,0.110772395218576
+0,p_coumaric_acid,ElasticNet-Quad,0.06407324127928242
+0,p_coumaric_acid,RandomForest,0.09523083630971045
+0,p_coumaric_acid,ExtraTrees,0.14430167850267686
+0,p_coumaric_acid,LightGBM,0.11964112501773862
+0,p_coumaric_acid,XGBoost,0.14153187258890018
+0,p_coumaric_acid,GP-Matern,0.1245144771243534
+0,p_coumaric_acid,CM-BARS,0.05693294059394199
+0,p_coumaric_acid,PFN-RSM (prior-fitted),0.08009343949659996
+0,acetosyringone,OLS-Quad + clip,0.0
+0,acetosyringone,PLS-Quad,0.0
+0,acetosyringone,ElasticNet-Quad,0.090790397056799
+0,acetosyringone,RandomForest,0.12641922053376378
+0,acetosyringone,ExtraTrees,0.2993897388623432
+0,acetosyringone,LightGBM,0.27232434788897997
+0,acetosyringone,XGBoost,0.12279620940622914
+0,acetosyringone,GP-Matern,1.5079036096687277e-18
+0,acetosyringone,CM-BARS,0.07868767639518744
+0,acetosyringone,PFN-RSM (prior-fitted),0.009592409856697365
+1,tannic_acid,OLS-Quad + clip,0.08286051922848947
+1,tannic_acid,PLS-Quad,0.18714469807763942
+1,tannic_acid,ElasticNet-Quad,0.049501833385409734
+1,tannic_acid,RandomForest,0.12130149919503556
+1,tannic_acid,ExtraTrees,0.06355731076738694
+1,tannic_acid,LightGBM,0.102958634562284
+1,tannic_acid,XGBoost,0.10995127012806162
+1,tannic_acid,GP-Matern,0.13529147992320775
+1,tannic_acid,CM-BARS,0.07081193589564681
+1,tannic_acid,PFN-RSM (prior-fitted),0.07662081883683869
+1,p_coumaric_acid,OLS-Quad + clip,0.020013935896738635
+1,p_coumaric_acid,PLS-Quad,0.09659660632021827
+1,p_coumaric_acid,ElasticNet-Quad,0.09460323156166321
+1,p_coumaric_acid,RandomForest,0.08604986090217681
+1,p_coumaric_acid,ExtraTrees,0.17057824329333374
+1,p_coumaric_acid,LightGBM,0.10508452519511555
+1,p_coumaric_acid,XGBoost,0.11833191832310407
+1,p_coumaric_acid,GP-Matern,0.15901017564168632
+1,p_coumaric_acid,CM-BARS,0.07099707532005443
+1,p_coumaric_acid,PFN-RSM (prior-fitted),0.07873442754590901
+1,acetosyringone,OLS-Quad + clip,4.0556521423483804e-17
+1,acetosyringone,PLS-Quad,0.0024020088234959804
+1,acetosyringone,ElasticNet-Quad,0.09612331033750997
+1,acetosyringone,RandomForest,0.11508344045141244
+1,acetosyringone,ExtraTrees,0.2895358012863028
+1,acetosyringone,LightGBM,0.268131107090813
+1,acetosyringone,XGBoost,0.12238913878849668
+1,acetosyringone,GP-Matern,0.007521717912326955
+1,acetosyringone,CM-BARS,0.08306265813075646
+1,acetosyringone,PFN-RSM (prior-fitted),0.0157508171788856
+2,tannic_acid,OLS-Quad + clip,0.08398742973200683
+2,tannic_acid,PLS-Quad,0.18768779080467035
+2,tannic_acid,ElasticNet-Quad,0.05144287040795051
+2,tannic_acid,RandomForest,0.12066664574899791
+2,tannic_acid,ExtraTrees,0.059512244862361785
+2,tannic_acid,LightGBM,0.10076959334669737
+2,tannic_acid,XGBoost,0.11265899355073157
+2,tannic_acid,GP-Matern,0.13432250386091793
+2,tannic_acid,CM-BARS,0.0706825146791902
+2,tannic_acid,PFN-RSM (prior-fitted),0.07826941300647554
+2,p_coumaric_acid,OLS-Quad + clip,0.08888051929931606
+2,p_coumaric_acid,PLS-Quad,0.13720431139021272
+2,p_coumaric_acid,ElasticNet-Quad,0.09196132718298074
+2,p_coumaric_acid,RandomForest,0.07626937926447151
+2,p_coumaric_acid,ExtraTrees,0.14313161113750866
+2,p_coumaric_acid,LightGBM,0.09403961620539704
+2,p_coumaric_acid,XGBoost,0.10007611277107335
+2,p_coumaric_acid,GP-Matern,0.13129949749584544
+2,p_coumaric_acid,CM-BARS,0.06137488261370763
+2,p_coumaric_acid,PFN-RSM (prior-fitted),0.07576274263948686
+2,acetosyringone,OLS-Quad + clip,1.2423493018982342e-17
+2,acetosyringone,PLS-Quad,5.467460931872957e-18
+2,acetosyringone,ElasticNet-Quad,0.0921650401416352
+2,acetosyringone,RandomForest,0.1251863870080926
+2,acetosyringone,ExtraTrees,0.29924338650771953
+2,acetosyringone,LightGBM,0.26489369980746785
+2,acetosyringone,XGBoost,0.1224922331735144
+2,acetosyringone,GP-Matern,1.7816595963766895e-17
+2,acetosyringone,CM-BARS,0.08745794440445928
+2,acetosyringone,PFN-RSM (prior-fitted),0.008561308957111005
+3,tannic_acid,OLS-Quad + clip,0.08099282652048118
+3,tannic_acid,PLS-Quad,0.1972953037126518
+3,tannic_acid,ElasticNet-Quad,0.05838979606951664
+3,tannic_acid,RandomForest,0.11510288579925482
+3,tannic_acid,ExtraTrees,0.05558299230897234
+3,tannic_acid,LightGBM,0.09144696175266792
+3,tannic_acid,XGBoost,0.10825811777450609
+3,tannic_acid,GP-Matern,0.14302535230219335
+3,tannic_acid,CM-BARS,0.06996573529512541
+3,tannic_acid,PFN-RSM (prior-fitted),0.07994002846463052
+3,p_coumaric_acid,OLS-Quad + clip,0.048376450034315066
+3,p_coumaric_acid,PLS-Quad,0.10287167066012512
+3,p_coumaric_acid,ElasticNet-Quad,0.08217852420472628
+3,p_coumaric_acid,RandomForest,0.0975277833620526
+3,p_coumaric_acid,ExtraTrees,0.15320552241858368
+3,p_coumaric_acid,LightGBM,0.14157441142002458
+3,p_coumaric_acid,XGBoost,0.11425582791520551
+3,p_coumaric_acid,GP-Matern,0.13285351365695136
+3,p_coumaric_acid,CM-BARS,0.05634214032723652
+3,p_coumaric_acid,PFN-RSM (prior-fitted),0.07081415600077931
+3,acetosyringone,OLS-Quad + clip,2.0444138378228378e-17
+3,acetosyringone,PLS-Quad,0.004055191835646527
+3,acetosyringone,ElasticNet-Quad,0.08890143573513326
+3,acetosyringone,RandomForest,0.1097580807157761
+3,acetosyringone,ExtraTrees,0.27124986083728375
+3,acetosyringone,LightGBM,0.2820054058315394
+3,acetosyringone,XGBoost,0.13718993873460428
+3,acetosyringone,GP-Matern,0.002848735229473013
+3,acetosyringone,CM-BARS,0.08620643656862201
+3,acetosyringone,PFN-RSM (prior-fitted),0.017784914511921567
+4,tannic_acid,OLS-Quad + clip,0.08078845458197377
+4,tannic_acid,PLS-Quad,0.1851960888520725
+4,tannic_acid,ElasticNet-Quad,0.04848194583523607
+4,tannic_acid,RandomForest,0.12095903005322609
+4,tannic_acid,ExtraTrees,0.06243802062766948
+4,tannic_acid,LightGBM,0.09974775145101539
+4,tannic_acid,XGBoost,0.11661932582315605
+4,tannic_acid,GP-Matern,0.13958578772426952
+4,tannic_acid,CM-BARS,0.06944017573421385
+4,tannic_acid,PFN-RSM (prior-fitted),0.07674341931716727
+4,p_coumaric_acid,OLS-Quad + clip,0.06074426591839883
+4,p_coumaric_acid,PLS-Quad,0.13286578907532795
+4,p_coumaric_acid,ElasticNet-Quad,0.09823827155616878
+4,p_coumaric_acid,RandomForest,0.08513759966069753
+4,p_coumaric_acid,ExtraTrees,0.15128061160648568
+4,p_coumaric_acid,LightGBM,0.10319356604523293
+4,p_coumaric_acid,XGBoost,0.09997653600903762
+4,p_coumaric_acid,GP-Matern,0.1411730469772764
+4,p_coumaric_acid,CM-BARS,0.04261177975788064
+4,p_coumaric_acid,PFN-RSM (prior-fitted),0.08477853339349369
+4,acetosyringone,OLS-Quad + clip,0.0
+4,acetosyringone,PLS-Quad,0.0
+4,acetosyringone,ElasticNet-Quad,0.0858280605334093
+4,acetosyringone,RandomForest,0.11682797977091705
+4,acetosyringone,ExtraTrees,0.2935100440812727
+4,acetosyringone,LightGBM,0.27397375426740644
+4,acetosyringone,XGBoost,0.1280843393864374
+4,acetosyringone,GP-Matern,0.0
+4,acetosyringone,CM-BARS,0.08985519726570593
+4,acetosyringone,PFN-RSM (prior-fitted),0.011920624694851277
+5,tannic_acid,OLS-Quad + clip,0.0751646111730811
+5,tannic_acid,PLS-Quad,0.19521898318256456
+5,tannic_acid,ElasticNet-Quad,0.054716848641102295
+5,tannic_acid,RandomForest,0.12009142965938276
+5,tannic_acid,ExtraTrees,0.06282406261329315
+5,tannic_acid,LightGBM,0.07198402041100023
+5,tannic_acid,XGBoost,0.10552309589956886
+5,tannic_acid,GP-Matern,0.15224328899880474
+5,tannic_acid,CM-BARS,0.07742206944087147
+5,tannic_acid,PFN-RSM (prior-fitted),0.0848115899803309
+5,p_coumaric_acid,OLS-Quad + clip,0.11617141013023595
+5,p_coumaric_acid,PLS-Quad,0.1441768665768193
+5,p_coumaric_acid,ElasticNet-Quad,0.11438133304752779
+5,p_coumaric_acid,RandomForest,0.09665935755745418
+5,p_coumaric_acid,ExtraTrees,0.17043692440590452
+5,p_coumaric_acid,LightGBM,0.073841623660987
+5,p_coumaric_acid,XGBoost,0.09474535409973851
+5,p_coumaric_acid,GP-Matern,0.12335205768458814
+5,p_coumaric_acid,CM-BARS,0.012034317973022709
+5,p_coumaric_acid,PFN-RSM (prior-fitted),0.054200754863721945
+5,acetosyringone,OLS-Quad + clip,3.366421852791375e-15
+5,acetosyringone,PLS-Quad,7.276473473325573e-05
+5,acetosyringone,ElasticNet-Quad,0.07802623622432225
+5,acetosyringone,RandomForest,0.14089247826859558
+5,acetosyringone,ExtraTrees,0.29378128791022506
+5,acetosyringone,LightGBM,0.264555183937897
+5,acetosyringone,XGBoost,0.138551744588345
+5,acetosyringone,GP-Matern,0.0026063088036122816
+5,acetosyringone,CM-BARS,0.06872111623992087
+5,acetosyringone,PFN-RSM (prior-fitted),0.01279287929234523
+6,tannic_acid,OLS-Quad + clip,0.08070631712482389
+6,tannic_acid,PLS-Quad,0.18598372512997205
+6,tannic_acid,ElasticNet-Quad,0.055909382874309736
+6,tannic_acid,RandomForest,0.11763884268266613
+6,tannic_acid,ExtraTrees,0.05235901593960778
+6,tannic_acid,LightGBM,0.10746469662921211
+6,tannic_acid,XGBoost,0.1158133977419952
+6,tannic_acid,GP-Matern,0.12633879361626912
+6,tannic_acid,CM-BARS,0.07745037477836075
+6,tannic_acid,PFN-RSM (prior-fitted),0.08033545348278325
+6,p_coumaric_acid,OLS-Quad + clip,0.09303091501827773
+6,p_coumaric_acid,PLS-Quad,0.14971733119735012
+6,p_coumaric_acid,ElasticNet-Quad,0.07326487931785311
+6,p_coumaric_acid,RandomForest,0.07072955993570781
+6,p_coumaric_acid,ExtraTrees,0.14285263855772
+6,p_coumaric_acid,LightGBM,0.08895487099221915
+6,p_coumaric_acid,XGBoost,0.10291397701365784
+6,p_coumaric_acid,GP-Matern,0.12400659519146053
+6,p_coumaric_acid,CM-BARS,0.07475996573978654
+6,p_coumaric_acid,PFN-RSM (prior-fitted),0.07976926703596719
+6,acetosyringone,OLS-Quad + clip,2.48305844562787e-16
+6,acetosyringone,PLS-Quad,0.0
+6,acetosyringone,ElasticNet-Quad,0.0986556040404511
+6,acetosyringone,RandomForest,0.13144980002048168
+6,acetosyringone,ExtraTrees,0.29637310586769683
+6,acetosyringone,LightGBM,0.2690741347321826
+6,acetosyringone,XGBoost,0.12236492865552506
+6,acetosyringone,GP-Matern,0.008944146125943929
+6,acetosyringone,CM-BARS,0.06645591353200692
+6,acetosyringone,PFN-RSM (prior-fitted),0.006682367025711457
+7,tannic_acid,OLS-Quad + clip,0.07138223917049437
+7,tannic_acid,PLS-Quad,0.1774743113833958
+7,tannic_acid,ElasticNet-Quad,0.047887857629753644
+7,tannic_acid,RandomForest,0.12331512144204224
+7,tannic_acid,ExtraTrees,0.059893199886852135
+7,tannic_acid,LightGBM,0.10242596003445208
+7,tannic_acid,XGBoost,0.10057803468300078
+7,tannic_acid,GP-Matern,0.15609203311591702
+7,tannic_acid,CM-BARS,0.08092804415762828
+7,tannic_acid,PFN-RSM (prior-fitted),0.08002319849646362
+7,p_coumaric_acid,OLS-Quad + clip,0.06289287892433142
+7,p_coumaric_acid,PLS-Quad,0.12964331473664845
+7,p_coumaric_acid,ElasticNet-Quad,0.09272676541803801
+7,p_coumaric_acid,RandomForest,0.07257510004077512
+7,p_coumaric_acid,ExtraTrees,0.14392736255038097
+7,p_coumaric_acid,LightGBM,0.10504551673672659
+7,p_coumaric_acid,XGBoost,0.10535988380731202
+7,p_coumaric_acid,GP-Matern,0.13157947494096367
+7,p_coumaric_acid,CM-BARS,0.07103360658913496
+7,p_coumaric_acid,PFN-RSM (prior-fitted),0.08521609625568881
+7,acetosyringone,OLS-Quad + clip,0.0
+7,acetosyringone,PLS-Quad,0.006641704032143197
+7,acetosyringone,ElasticNet-Quad,0.09026590082114283
+7,acetosyringone,RandomForest,0.12819299208939453
+7,acetosyringone,ExtraTrees,0.29142006416805155
+7,acetosyringone,LightGBM,0.26921726651581374
+7,acetosyringone,XGBoost,0.12176084566335686
+7,acetosyringone,GP-Matern,0.0024570942598102796
+7,acetosyringone,CM-BARS,0.07716120070159767
+7,acetosyringone,PFN-RSM (prior-fitted),0.012882931748689194
+8,tannic_acid,OLS-Quad + clip,0.04973615727158961
+8,tannic_acid,PLS-Quad,0.14758913894909143
+8,tannic_acid,ElasticNet-Quad,0.06764088801696466
+8,tannic_acid,RandomForest,0.13164590905715767
+8,tannic_acid,ExtraTrees,0.08563119279079331
+8,tannic_acid,LightGBM,0.10595632369135
+8,tannic_acid,XGBoost,0.11055196317853788
+8,tannic_acid,GP-Matern,0.1483590385201929
+8,tannic_acid,CM-BARS,0.06971281168125998
+8,tannic_acid,PFN-RSM (prior-fitted),0.0831765768430627
+8,p_coumaric_acid,OLS-Quad + clip,0.08591014840879485
+8,p_coumaric_acid,PLS-Quad,0.12956527470593424
+8,p_coumaric_acid,ElasticNet-Quad,0.0808344571294949
+8,p_coumaric_acid,RandomForest,0.07727968994144335
+8,p_coumaric_acid,ExtraTrees,0.15115779077239372
+8,p_coumaric_acid,LightGBM,0.11043286185002263
+8,p_coumaric_acid,XGBoost,0.1118952928646559
+8,p_coumaric_acid,GP-Matern,0.12753827553867222
+8,p_coumaric_acid,CM-BARS,0.05246225995603638
+8,p_coumaric_acid,PFN-RSM (prior-fitted),0.07292394883255188
+8,acetosyringone,OLS-Quad + clip,8.725272620680469e-17
+8,acetosyringone,PLS-Quad,2.4418213239171172e-17
+8,acetosyringone,ElasticNet-Quad,0.09725668316649061
+8,acetosyringone,RandomForest,0.12735304632198455
+8,acetosyringone,ExtraTrees,0.3050103815277792
+8,acetosyringone,LightGBM,0.2752718363621055
+8,acetosyringone,XGBoost,0.12444267117361073
+8,acetosyringone,GP-Matern,5.15902769974058e-17
+8,acetosyringone,CM-BARS,0.06918522396428523
+8,acetosyringone,PFN-RSM (prior-fitted),0.0014801574837442352
+9,tannic_acid,OLS-Quad + clip,0.08705376094302418
+9,tannic_acid,PLS-Quad,0.2029500108010511
+9,tannic_acid,ElasticNet-Quad,0.08161388548212793
+9,tannic_acid,RandomForest,0.09953139070828082
+9,tannic_acid,ExtraTrees,0.03580335594761546
+9,tannic_acid,LightGBM,0.076527437524678
+9,tannic_acid,XGBoost,0.08920468603500684
+9,tannic_acid,GP-Matern,0.1386618175975999
+9,tannic_acid,CM-BARS,0.09273895621918725
+9,tannic_acid,PFN-RSM (prior-fitted),0.09591469874142872
+9,p_coumaric_acid,OLS-Quad + clip,0.07085922441531932
+9,p_coumaric_acid,PLS-Quad,0.12231715125386794
+9,p_coumaric_acid,ElasticNet-Quad,0.09882070515669043
+9,p_coumaric_acid,RandomForest,0.08577519339991696
+9,p_coumaric_acid,ExtraTrees,0.1501292124074556
+9,p_coumaric_acid,LightGBM,0.10120602647218854
+9,p_coumaric_acid,XGBoost,0.1046447825224203
+9,p_coumaric_acid,GP-Matern,0.14041289717226071
+9,p_coumaric_acid,CM-BARS,0.05476223202914158
+9,p_coumaric_acid,PFN-RSM (prior-fitted),0.07107257517073866
+9,acetosyringone,OLS-Quad + clip,1.5326058709235997e-16
+9,acetosyringone,PLS-Quad,1.2581279743734703e-18
+9,acetosyringone,ElasticNet-Quad,0.08522455512287978
+9,acetosyringone,RandomForest,0.1323847682291081
+9,acetosyringone,ExtraTrees,0.2950322458079197
+9,acetosyringone,LightGBM,0.26989388778803003
+9,acetosyringone,XGBoost,0.1256916149259921
+9,acetosyringone,GP-Matern,0.005147300269020057
+9,acetosyringone,CM-BARS,0.07226700141861857
+9,acetosyringone,PFN-RSM (prior-fitted),0.014358626438431528
+10,tannic_acid,OLS-Quad + clip,0.08541309587467469
+10,tannic_acid,PLS-Quad,0.16880611172209695
+10,tannic_acid,ElasticNet-Quad,0.03725756910152414
+10,tannic_acid,RandomForest,0.13869563465649948
+10,tannic_acid,ExtraTrees,0.08031767914052303
+10,tannic_acid,LightGBM,0.11411714913421175
+10,tannic_acid,XGBoost,0.13337144029568163
+10,tannic_acid,GP-Matern,0.07941385241618767
+10,tannic_acid,CM-BARS,0.08585849277707483
+10,tannic_acid,PFN-RSM (prior-fitted),0.07674897488152597
+10,p_coumaric_acid,OLS-Quad + clip,0.09335579997390127
+10,p_coumaric_acid,PLS-Quad,0.1357161322917063
+10,p_coumaric_acid,ElasticNet-Quad,0.08053920013202888
+10,p_coumaric_acid,RandomForest,0.07672260730764885
+10,p_coumaric_acid,ExtraTrees,0.15002172048637918
+10,p_coumaric_acid,LightGBM,0.10472187797068029
+10,p_coumaric_acid,XGBoost,0.10735621970326693
+10,p_coumaric_acid,GP-Matern,0.12727415006465664
+10,p_coumaric_acid,CM-BARS,0.04611627142944214
+10,p_coumaric_acid,PFN-RSM (prior-fitted),0.0781760206402895
+10,acetosyringone,OLS-Quad + clip,0.0
+10,acetosyringone,PLS-Quad,0.0
+10,acetosyringone,ElasticNet-Quad,0.09228586941165225
+10,acetosyringone,RandomForest,0.12611556934303955
+10,acetosyringone,ExtraTrees,0.2957926830028642
+10,acetosyringone,LightGBM,0.2719357505902958
+10,acetosyringone,XGBoost,0.124029225576931
+10,acetosyringone,GP-Matern,1.1473677634409116e-17
+10,acetosyringone,CM-BARS,0.07768800918451696
+10,acetosyringone,PFN-RSM (prior-fitted),0.012152892890700196
+11,tannic_acid,OLS-Quad + clip,0.05498289264817373
+11,tannic_acid,PLS-Quad,0.15790507952188113
+11,tannic_acid,ElasticNet-Quad,0.03311270920022119
+11,tannic_acid,RandomForest,0.12324821680982652
+11,tannic_acid,ExtraTrees,0.08052782808057779
+11,tannic_acid,LightGBM,0.12607750924089867
+11,tannic_acid,XGBoost,0.11799626415106518
+11,tannic_acid,GP-Matern,0.15049264858017528
+11,tannic_acid,CM-BARS,0.07167854414352626
+11,tannic_acid,PFN-RSM (prior-fitted),0.08397830762365428
+11,p_coumaric_acid,OLS-Quad + clip,0.08188524727132625
+11,p_coumaric_acid,PLS-Quad,0.13258594108009458
+11,p_coumaric_acid,ElasticNet-Quad,0.08866374430195095
+11,p_coumaric_acid,RandomForest,0.08027307602725274
+11,p_coumaric_acid,ExtraTrees,0.1270510897607281
+11,p_coumaric_acid,LightGBM,0.09083421254900309
+11,p_coumaric_acid,XGBoost,0.10332318198926783
+11,p_coumaric_acid,GP-Matern,0.1433521007312138
+11,p_coumaric_acid,CM-BARS,0.06536482930002789
+11,p_coumaric_acid,PFN-RSM (prior-fitted),0.08666657698913494
+11,acetosyringone,OLS-Quad + clip,1.4376646958478542e-16
+11,acetosyringone,PLS-Quad,0.0
+11,acetosyringone,ElasticNet-Quad,0.0942831095394535
+11,acetosyringone,RandomForest,0.12782634656500666
+11,acetosyringone,ExtraTrees,0.29514373226166596
+11,acetosyringone,LightGBM,0.26932333334136604
+11,acetosyringone,XGBoost,0.1223806226365503
+11,acetosyringone,GP-Matern,0.0017239443748903454
+11,acetosyringone,CM-BARS,0.07595323796042774
+11,acetosyringone,PFN-RSM (prior-fitted),0.013365673320639397
+12,tannic_acid,OLS-Quad + clip,0.14820028093169857
+12,tannic_acid,PLS-Quad,0.16594539938838293
+12,tannic_acid,ElasticNet-Quad,0.040189625304826684
+12,tannic_acid,RandomForest,0.13081885809058563
+12,tannic_acid,ExtraTrees,0.06179431347930948
+12,tannic_acid,LightGBM,0.11013628064137264
+12,tannic_acid,XGBoost,0.11355447914946955
+12,tannic_acid,GP-Matern,0.12082925132990022
+12,tannic_acid,CM-BARS,0.051775178518427084
+12,tannic_acid,PFN-RSM (prior-fitted),0.05675633316602737
+12,p_coumaric_acid,OLS-Quad + clip,0.10432953328501282
+12,p_coumaric_acid,PLS-Quad,0.1252473041466168
+12,p_coumaric_acid,ElasticNet-Quad,0.07351748191462436
+12,p_coumaric_acid,RandomForest,0.09683283090975343
+12,p_coumaric_acid,ExtraTrees,0.11867490331366408
+12,p_coumaric_acid,LightGBM,0.10957735328445678
+12,p_coumaric_acid,XGBoost,0.10556383418362625
+12,p_coumaric_acid,GP-Matern,0.13878458985850456
+12,p_coumaric_acid,CM-BARS,0.05665518101723083
+12,p_coumaric_acid,PFN-RSM (prior-fitted),0.07081698808650988
+12,acetosyringone,OLS-Quad + clip,1.003929734010205e-17
+12,acetosyringone,PLS-Quad,0.002512688546127237
+12,acetosyringone,ElasticNet-Quad,0.14101424548144506
+12,acetosyringone,RandomForest,0.1591962790654291
+12,acetosyringone,ExtraTrees,0.26860648004711973
+12,acetosyringone,LightGBM,0.23984360217611728
+12,acetosyringone,XGBoost,0.10001396386673686
+12,acetosyringone,GP-Matern,1.6975373837290524e-18
+12,acetosyringone,CM-BARS,0.0764045458890621
+12,acetosyringone,PFN-RSM (prior-fitted),0.012408194927962685

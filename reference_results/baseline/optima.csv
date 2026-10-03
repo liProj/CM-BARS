@@ -1,0 +1,4 @@
+response,pub_pH,pub_conc,pub_cnf,rep_pH,rep_conc,rep_cnf,predicted_max_pct,best_observed_pct,best_observed_run
+tannic_acid,4.3,5,0.1,4.310865199450913,5.0,0.1,63.44505375966446,60.37,9
+p_coumaric_acid,8.0,5,0.35,8.0,5.0,0.3526952045263318,27.314773399047137,28.1,2
+acetosyringone,7.8,5,0.25,7.757164907800861,5.0,0.2468837905721476,11.431729645246818,12.61,2
